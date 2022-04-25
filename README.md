@@ -1,6 +1,6 @@
 # SDH-CSSThemeGenerator
 A python script that generates themes for the [Steam Deck CSS Loader](https://github.com/suchmememanyskill/SDH-CssLoader) <br>
-You get to name the theme it creates, which it conventiently puts in a seperate folder, which you can proceed to copy paste to ```~/homebrew/themes/``` <br>
+You get to name the theme it creates, which it conventiently puts in a seperate folder, which you can proceed to copy paste to <br> ```~/homebrew/themes/``` <br>
 The script asks for several inputs: <br>
 Colours are hex WITHOUT the hashtags <br>
 The template picker is the full filename (there will be added more) <br>
