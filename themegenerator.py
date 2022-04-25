@@ -8,12 +8,10 @@ def loweredgames(f):
             f.write(r.read())
 
 def themepicker():
-    themechoice = input("Which styling do you want? ")
-    if os.path.exists(themechoice):
-        return themechoice
-    else:
-        print("Invalid choice")
-        themepicker()
+    while True:
+        themechoice = input("Which styling do you want? ")
+        if os.path.exists(themechoice):
+            return themechoice
 
 def foldercreator(dirName):
     try:
