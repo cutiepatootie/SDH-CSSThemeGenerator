@@ -91,4 +91,3 @@ with open(themename + "/" + themefile, 'w') as f:
     with open(themestyle, "r") as r:
         f.write(r.read())
     loweredgames(f)
-exit()
