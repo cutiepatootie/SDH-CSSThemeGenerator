@@ -1,0 +1,10 @@
+
+{
+"name": "steambuttontest",
+"version": "1.0",
+"inject": {
+"steambuttontest.css": [
+"SP", "MainMenu", "QuickAccess"
+]
+}
+}
