@@ -108,4 +108,4 @@ with open(themename + "/" + themefile, 'w') as f:
         f.write(r.read())
     loweredgames(f)
     invertedcontrollericons(f)
-    deckcompatcolours(f)
+    ##deckcompatcolours(f) not working at the moment
