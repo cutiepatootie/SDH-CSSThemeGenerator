@@ -25,3 +25,7 @@
 .controllerconfigurator_SectionGlyph_3AFlG {
     filter: invert(100%) !important; 
 }
+
+.controllerconfiguratorsummary_ControllerConfiguratorSummary_3TvBV.controllerconfiguratorsummary_MainMenu_36lCI {
+    background: var(--BackgroundRegular);
+}

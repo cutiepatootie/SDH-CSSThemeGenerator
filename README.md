@@ -11,4 +11,6 @@ These templates include: <br>
 All of the fontnames can be copy-pasted as they are in [Deck Fonts Text File](https://github.com/cutiepatootie/SDH-CSSThemeGenerator/blob/main/DefaultDeckFonts.txt) <br>
 If you have custom fonts installed, these can be used too. <br> <br>
 Screenshots for guiding which colours do what will follow soon.<br>
-Text and Icon colours are WIP cause not all of the colours currently behave as expected. <br>
+Text and Icon colours are WIP cause not all of the colours currently behave as expected. <br><br>
+
+The next scope is adding keyboard support to the themes, considering my global properties are affecting the keyboard
