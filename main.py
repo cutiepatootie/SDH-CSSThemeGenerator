@@ -37,6 +37,14 @@ def texticoncolour(f):
     if textcolour != "default":
             f.write('color: #' + textcolour + ' !important;\n')
 
+def invertedcontrollericons(f):
+    invertquestion = input("Do you want to invert the controller button icons? Recommended for bright and light themes [y/N]: ")
+    if invertquestion == "y":
+        with open("invertcontrollericons.css", 'r') as r:
+          f.write(r.read())
+    else:
+      f.write('.footericons_Background_yjs9m {  fill: #fff !important; }')
+  
 
 print("Warning! Eat every option, the upper case Y or N is the default option!")
 themename = input("Enter your theme name: ")
@@ -91,3 +99,4 @@ with open(themename + "/" + themefile, 'w') as f:
     with open(themestyle, "r") as r:
         f.write(r.read())
     loweredgames(f)
+    invertedcontrollericons(f)

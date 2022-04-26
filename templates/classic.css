@@ -325,10 +325,8 @@ button.DialogButton {
     background-color: var(--Accent);
 }
 
-.footericons_Background_yjs9m {
-  fill: #fff !important;
-}
-
 .footericons_Foreground_JgT6Z {
   fill: var(--BackgroundLight)  !important;
 }
+
+
