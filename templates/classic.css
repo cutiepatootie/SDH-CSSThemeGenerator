@@ -366,3 +366,23 @@ button.DialogButton {
 .BasicUI .appdetailsprimarylinkssection_Anchor_DY4_w {
     background-color: var(--BackgroundDark) !important;
 }
+
+.controllerconfiguratorsummary_ControllerConfiguratorSummary_3TvBV {
+    background: var(--BackgroundDark) !important;
+}
+
+.controllerconfigurator_interstitial_ConfiguratorInterstitialContainer_3FS5u {
+    background-color: var(--BackgroundDark) !important;
+}
+
+.controllerconfigurator_TopSection_20sN9 {
+    background-color: var(--BackgroundDark) !important;
+}
+
+.controllerconfigurator_BottomSection_3RsRf {
+    background-color: var(--BackgroundRegular) !important;
+}
+
+.gamepadslider_EditableValue_3aMli, .gamepadslider_FakeEditableValue_1iWWS {
+    background: var(--BackgroundDark) !important;
+}

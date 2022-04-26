@@ -13,3 +13,15 @@
 .gamepadtabbedpage_Glyphs_N-f57 gamepadtabbedpage_Show_1ZEnd {
     filter: invert(100%) !important;
 }
+
+.controllerconfiguratorsummary_MediumGlyphIcon_2nNX3 {
+    filter: invert(100%) !important;
+}
+
+.controllerconfiguratorsummary_PillShapedIcon_1zIGH controllerconfiguratorsummary_MediumGlyphIcon_2nNX3 {
+    filter: invert(100%) !important; 
+}
+
+.controllerconfigurator_SectionGlyph_3AFlG {
+    filter: invert(100%) !important; 
+}
