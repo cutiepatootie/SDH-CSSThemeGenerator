@@ -2,8 +2,7 @@
 A python script that generates themes for the [Steam Deck CSS Loader](https://github.com/suchmememanyskill/SDH-CssLoader) <br>
 You get to name the theme it creates, which it conventiently puts in a seperate folder, which you can proceed to copy paste to <br> ```~/homebrew/themes/``` <br>
 The script asks for several inputs: <br>
-Colours are hex with the hashtags already included<br>
-EVERYTHING is case sensitive <br> <br>
+Colours are hex with the hashtags already included<br> <br>
 The template picker is the full filename (there will be added more) <br>
 These templates include: <br>
 - regular.css which is just the regular Steam Deck UI as it normally is <br>
