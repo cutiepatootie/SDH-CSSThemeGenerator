@@ -22,7 +22,7 @@ def foldercreator(dirName):
         foldercreator(dirName)
 
 def borderradius(f):
-    borderradiusquestion = input("Do you want to make toggles squared? [y/N]: ").lower()
+    borderradiusquestion = input("Do you want to make everything squared? [y/N]: ").lower()
     if borderradiusquestion == "y":
         f.write('border-radius: 0px !important;\n')
 
