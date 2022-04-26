@@ -247,11 +247,11 @@ button.DialogButton {
 }
 
 .footericons_Background_yjs9m {
-  color: #fff;
+  fill: #fff !important;
 }
 
 .footericons_Foreground_JgT6Z {
-  color: var(--BackgroundLight);
+  fill: var(--BackgroundLight)  !important;
 }.gamepadhomerecentgames_RecentGamesInnerContainer_282X0 {
     margin-top: 130px;
 }
