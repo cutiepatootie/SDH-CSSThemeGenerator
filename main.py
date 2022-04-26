@@ -27,13 +27,13 @@ def borderradius(f):
         f.write('border-radius: 0px !important;\n')
 
 def boxshadow(f):
-    bordershadowquestion = input("Do you want to turn box shadow OFF? [y/N]: ")
+    bordershadowquestion = input("Do you want to turn box shadows OFF? [y/N]: ")
     if bordershadowquestion == "y":
         f.write('box-shadow: none !important;\n')
         f.write('-webkit-box-shadow: none !important;\n')
 
 def texticoncolour(f):
-    textcolour = input("Colour for Text and Icons (WIP). Enter 'default' for default colours: ")
+    textcolour = input("Colour for Text and Icons (WIP). Enter 'default' for default colours: #")
     if textcolour != "default":
             f.write('color: #' + textcolour + ' !important;\n')
 
@@ -49,12 +49,12 @@ themestyle = "templates/" + themepicker()
 os.chdir('..')
 print("\n")
 print("Colour inputs are all hex-codes WITHOUT A HASTAG. For making good colour combinations, go to https://coolors.co/")
-backgroundlight = input("Colour for Light Background: ")
-backgroundregular = input("Colour for Regular Background: ")
-backgrounddark = input("Colour for Dark Background: ")
-borderlight = input("Colour for Light Border: ")
-borderdark = input("Colour for Dark Border: ")
-accent = input("Colour for accents: ")
+backgroundlight = input("Colour for Light Background: #")
+backgroundregular = input("Colour for Regular Background: #")
+backgrounddark = input("Colour for Dark Background: #")
+borderlight = input("Colour for Light Border: #")
+borderdark = input("Colour for Dark Border: #")
+accent = input("Colour for accents: #")
 print("For the list of fonts included as standard on the Steam Deck, go to the DeckFonts.txt on the Github page")
 fontfamily = input("Enter the exact name of the font you want here: ")
 

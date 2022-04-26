@@ -1,233 +1,233 @@
-Cantarell
-DejaVu Math TeX Gyre
-DejaVu Sans
-DejaVu Sans Mono
-DejaVu Serif
-Hack
-Noto Kufi Arabic
-Noto Looped Lao
-Noto Looped Lao UI
-Noto Looped Thai
-Noto Looped Thai UI
-Noto Music
-Noto Naskh Arabic
-Noto Naskh Arabic UI
-Noto Nastaliq Urdu
-Noto Rashi Hebrew
-Noto Sans
-Noto Sans Adlam
-Noto Sans Adlam Unjoined
-Noto Sans Anatolian Hieroglyphs
-Noto Sans Arabic
-Noto Sans Arabic UI
-Noto Sans Armenian
-Noto Sans Avestan
-Noto Sans Balinese
-Noto Sans Bamum
-Noto Sans Bassa Vah
-Noto Sans Batak
-Noto Sans Bengali
-Noto Sans Bengali UI
-Noto Sans Bhaiksuki
-Noto Sans Brahmi
-Noto Sans Buginese
-Noto Sans Buhid
-Noto Sans Canadian Aboriginal
-Noto Sans Carian
-Noto Sans Caucasian Albanian
-Noto Sans Chakma
-Noto Sans Cham
-Noto Sans Cherokee
-Noto Sans CJK HK
-Noto Sans CJK JP
-Noto Sans CJK KR
-Noto Sans CJK SC
-Noto Sans CJK TC
-Noto Sans Coptic
-Noto Sans Cuneiform
-Noto Sans Cypriot
-Noto Sans Deseret
-Noto Sans Devanagari
-Noto Sans Devanagari UI
-Noto Sans Display
-Noto Sans Duployan
-Noto Sans Egyptian Hieroglyphs
-Noto Sans Elbasan
-Noto Sans Elymaic
-Noto Sans Ethiopic
-Noto Sans Georgian
-Noto Sans Glagolitic
-Noto Sans Gothic
-Noto Sans Grantha
-Noto Sans Gujarati
-Noto Sans Gujarati UI
-Noto Sans Gunjala Gondi
-Noto Sans Gurmukhi
-Noto Sans Gurmukhi UI
-Noto Sans Hanifi Rohingya
-Noto Sans Hanunoo
-Noto Sans Hatran
-Noto Sans Hebrew
-Noto Sans Imperial Aramaic
-Noto Sans Indic Siyaq Numbers
-Noto Sans Inscriptional Pahlavi
-Noto Sans Inscriptional Parthian
-Noto Sans Javanese
-Noto Sans Kaithi
-Noto Sans Kannada
-Noto Sans Kannada UI
-Noto Sans Kayah Li
-Noto Sans Kharoshthi
-Noto Sans Khmer
-Noto Sans Khmer UI
-Noto Sans Khojki
-Noto Sans Khudawadi
-Noto Sans Lao
-Noto Sans Lao UI
-Noto Sans Lepcha
-Noto Sans Limbu
-Noto Sans Linear A
-Noto Sans Linear B
-Noto Sans Lisu
-Noto Sans Lycian
-Noto Sans Lydian
-Noto Sans Mahajani
-Noto Sans Malayalam
-Noto Sans Malayalam UI
-Noto Sans Mandaic
-Noto Sans Manichaean
-Noto Sans Marchen
-Noto Sans Masaram Gondi
-Noto Sans Math
-Noto Sans Mayan Numerals
-Noto Sans Medefaidrin
-Noto Sans Meetei Mayek
-Noto Sans Mende Kikakui
-Noto Sans Meroitic
-Noto Sans Miao
-Noto Sans Modi
-Noto Sans Mongolian
-Noto Sans Mono
-Noto Sans Mono CJK HK
-Noto Sans Mono CJK JP
-Noto Sans Mono CJK KR
-Noto Sans Mono CJK SC
-Noto Sans Mono CJK TC
-Noto Sans Mro
-Noto Sans Multani
-Noto Sans Myanmar
-Noto Sans Myanmar UI
-Noto Sans Nabataean
-Noto Sans Newa
-Noto Sans New Tai Lue
-Noto Sans NKo
-Noto Sans Nushu
-Noto Sans Ogham
-Noto Sans Ol Chiki
-Noto Sans Old Hungarian
-Noto Sans Old Italic
-Noto Sans Old North Arabian
-Noto Sans Old Permic
-Noto Sans Old Persian
-Noto Sans Old Sogdian
-Noto Sans Old South Arabian
-Noto Sans Old Turkic
-Noto Sans Oriya
-Noto Sans Oriya UI
-Noto Sans Osage
-Noto Sans Osmanya
-Noto Sans Pahawh Hmong
-Noto Sans Palmyrene
-Noto Sans Pau Cin Hau
-Noto Sans PhagsPa
-Noto Sans Phoenician
-Noto Sans Psalter Pahlavi
-Noto Sans Rejang
-Noto Sans Runic
-Noto Sans Samaritan
-Noto Sans Saurashtra
-Noto Sans Sharada
-Noto Sans Shavian
-Noto Sans Siddham
-Noto Sans SignWriting
-Noto Sans Sinhala
-Noto Sans Sinhala UI
-Noto Sans Sogdian
-Noto Sans Sora Sompeng
-Noto Sans Soyombo
-Noto Sans Sundanese
-Noto Sans Syloti Nagri
-Noto Sans Symbols
-Noto Sans Symbols2
-Noto Sans Syriac
-Noto Sans Tagalog
-Noto Sans Tagbanwa
-Noto Sans Tai Le
-Noto Sans Tai Tham
-Noto Sans Tai Viet
-Noto Sans Takri
-Noto Sans Tamil
-Noto Sans Tamil Supplement
-Noto Sans Tamil UI
-Noto Sans Telugu
-Noto Sans Telugu UI
-Noto Sans Thaana
-Noto Sans Thai
-Noto Sans Thai UI
-Noto Sans Tifinagh
-Noto Sans Tifinagh Adrar
-Noto Sans Tifinagh Agraw Imazighen
-Noto Sans Tifinagh Ahaggar
-Noto Sans Tifinagh Air
-Noto Sans Tifinagh APT
-Noto Sans Tifinagh Azawagh
-Noto Sans Tifinagh Ghat
-Noto Sans Tifinagh Hawad
-Noto Sans Tifinagh Rhissa Ixa
-Noto Sans Tifinagh SIL
-Noto Sans Tifinagh Tawellemmet
-Noto Sans Tirhuta
-Noto Sans Ugaritic
-Noto Sans Vai
-Noto Sans Wancho
-Noto Sans Warang Citi
-Noto Sans Yi
-Noto Sans Zanabazar Square
-Noto Serif
-Noto Serif Ahom
-Noto Serif Armenian
-Noto Serif Balinese
-Noto Serif Bengali
-Noto Serif CJK HK
-Noto Serif CJK JP
-Noto Serif CJK KR
-Noto Serif CJK SC
-Noto Serif CJK TC
-Noto Serif Devanagari
-Noto Serif Display
-Noto Serif Dogra
-Noto Serif Ethiopic
-Noto Serif Georgian
-Noto Serif Grantha
-Noto Serif Gujarati
-Noto Serif Gurmukhi
-Noto Serif Hebrew
-Noto Serif Hmong Nyiakeng
-Noto Serif Kannada
-Noto Serif Khmer
-Noto Serif Khojki
-Noto Serif Lao
-Noto Serif Malayalam
-Noto Serif Myanmar
-Noto Serif Sinhala
-Noto Serif Tamil
-Noto Serif Tamil Slanted
-Noto Serif Tangut
-Noto Serif Telugu
-Noto Serif Thai
-Noto Serif Tibetan
-Noto Serif Yezidi
-Noto Traditional Nushu
-Source Code Pro
-Source Code Variable
-Twemoji
+cantarell
+dejavu-math-tex-gyre
+dejavu-sans
+dejavu-sans-mono
+dejavu-serif
+hack
+noto-kufi-arabic
+noto-looped-lao
+noto-looped-lao-ui
+noto-looped-thai
+noto-looped-thai-ui
+noto-music
+noto-naskh-arabic
+noto-naskh-arabic-ui
+noto-nastaliq-urdu
+noto-rashi-hebrew
+noto-sans
+noto-sans-adlam
+noto-sans-adlam-unjoined
+noto-sans-anatolian-hieroglyphs
+noto-sans-arabic
+noto-sans-arabic-ui
+noto-sans-armenian
+noto-sans-avestan
+noto-sans-balinese
+noto-sans-bamum
+noto-sans-bassa-vah
+noto-sans-batak
+noto-sans-bengali
+noto-sans-bengali-ui
+noto-sans-bhaiksuki
+noto-sans-brahmi
+noto-sans-buginese
+noto-sans-buhid
+noto-sans-canadian-aboriginal
+noto-sans-carian
+noto-sans-caucasian-albanian
+noto-sans-chakma
+noto-sans-cham
+noto-sans-cherokee
+noto-sans-cjk-hk
+noto-sans-cjk-jp
+noto-sans-cjk-kr
+noto-sans-cjk-sc
+noto-sans-cjk-tc
+noto-sans-coptic
+noto-sans-cuneiform
+noto-sans-cypriot
+noto-sans-deseret
+noto-sans-devanagari
+noto-sans-devanagari-ui
+noto-sans-display
+noto-sans-duployan
+noto-sans-egyptian-hieroglyphs
+noto-sans-elbasan
+noto-sans-elymaic
+noto-sans-ethiopic
+noto-sans-georgian
+noto-sans-glagolitic
+noto-sans-gothic
+noto-sans-grantha
+noto-sans-gujarati
+noto-sans-gujarati-ui
+noto-sans-gunjala-gondi
+noto-sans-gurmukhi
+noto-sans-gurmukhi-ui
+noto-sans-hanifi-rohingya
+noto-sans-hanunoo
+noto-sans-hatran
+noto-sans-hebrew
+noto-sans-imperial-aramaic
+noto-sans-indic-siyaq-numbers
+noto-sans-inscriptional-pahlavi
+noto-sans-inscriptional-parthian
+noto-sans-javanese
+noto-sans-kaithi
+noto-sans-kannada
+noto-sans-kannada-ui
+noto-sans-kayah-li
+noto-sans-kharoshthi
+noto-sans-khmer
+noto-sans-khmer-ui
+noto-sans-khojki
+noto-sans-khudawadi
+noto-sans-lao
+noto-sans-lao-ui
+noto-sans-lepcha
+noto-sans-limbu
+noto-sans-linear-a
+noto-sans-linear-b
+noto-sans-lisu
+noto-sans-lycian
+noto-sans-lydian
+noto-sans-mahajani
+noto-sans-malayalam
+noto-sans-malayalam-ui
+noto-sans-mandaic
+noto-sans-manichaean
+noto-sans-marchen
+noto-sans-masaram-gondi
+noto-sans-math
+noto-sans-mayan-numerals
+noto-sans-medefaidrin
+noto-sans-meetei-mayek
+noto-sans-mende-kikakui
+noto-sans-meroitic
+noto-sans-miao
+noto-sans-modi
+noto-sans-mongolian
+noto-sans-mono
+noto-sans-mono-cjk-hk
+noto-sans-mono-cjk-jp
+noto-sans-mono-cjk-kr
+noto-sans-mono-cjk-sc
+noto-sans-mono-cjk-tc
+noto-sans-mro
+noto-sans-multani
+noto-sans-myanmar
+noto-sans-myanmar-ui
+noto-sans-nabataean
+noto-sans-newa
+noto-sans-new-tai-lue
+noto-sans-nko
+noto-sans-nushu
+noto-sans-ogham
+noto-sans-ol-chiki
+noto-sans-old-hungarian
+noto-sans-old-italic
+noto-sans-old-north-arabian
+noto-sans-old-permic
+noto-sans-old-persian
+noto-sans-old-sogdian
+noto-sans-old-south-arabian
+noto-sans-old-turkic
+noto-sans-oriya
+noto-sans-oriya-ui
+noto-sans-osage
+noto-sans-osmanya
+noto-sans-pahawh-hmong
+noto-sans-palmyrene
+noto-sans-pau-cin-hau
+noto-sans-phagspa
+noto-sans-phoenician
+noto-sans-psalter-pahlavi
+noto-sans-rejang
+noto-sans-runic
+noto-sans-samaritan
+noto-sans-saurashtra
+noto-sans-sharada
+noto-sans-shavian
+noto-sans-siddham
+noto-sans-signwriting
+noto-sans-sinhala
+noto-sans-sinhala-ui
+noto-sans-sogdian
+noto-sans-sora-sompeng
+noto-sans-soyombo
+noto-sans-sundanese
+noto-sans-syloti-nagri
+noto-sans-symbols
+noto-sans-symbols2
+noto-sans-syriac
+noto-sans-tagalog
+noto-sans-tagbanwa
+noto-sans-tai-le
+noto-sans-tai-tham
+noto-sans-tai-viet
+noto-sans-takri
+noto-sans-tamil
+noto-sans-tamil-supplement
+noto-sans-tamil-ui
+noto-sans-telugu
+noto-sans-telugu-ui
+noto-sans-thaana
+noto-sans-thai
+noto-sans-thai-ui
+noto-sans-tifinagh
+noto-sans-tifinagh-adrar
+noto-sans-tifinagh-agraw-imazighen
+noto-sans-tifinagh-ahaggar
+noto-sans-tifinagh-air
+noto-sans-tifinagh-apt
+noto-sans-tifinagh-azawagh
+noto-sans-tifinagh-ghat
+noto-sans-tifinagh-hawad
+noto-sans-tifinagh-rhissa-ixa
+noto-sans-tifinagh-sil
+noto-sans-tifinagh-tawellemmet
+noto-sans-tirhuta
+noto-sans-ugaritic
+noto-sans-vai
+noto-sans-wancho
+noto-sans-warang-citi
+noto-sans-yi
+noto-sans-zanabazar-square
+noto-serif
+noto-serif-ahom
+noto-serif-armenian
+noto-serif-balinese
+noto-serif-bengali
+noto-serif-cjk-hk
+noto-serif-cjk-jp
+noto-serif-cjk-kr
+noto-serif-cjk-sc
+noto-serif-cjk-tc
+noto-serif-devanagari
+noto-serif-display
+noto-serif-dogra
+noto-serif-ethiopic
+noto-serif-georgian
+noto-serif-grantha
+noto-serif-gujarati
+noto-serif-gurmukhi
+noto-serif-hebrew
+noto-serif-hmong-nyiakeng
+noto-serif-kannada
+noto-serif-khmer
+noto-serif-khojki
+noto-serif-lao
+noto-serif-malayalam
+noto-serif-myanmar
+noto-serif-sinhala
+noto-serif-tamil
+noto-serif-tamil-slanted
+noto-serif-tangut
+noto-serif-telugu
+noto-serif-thai
+noto-serif-tibetan
+noto-serif-yezidi
+noto-traditional-nushu
+source-code-pro
+source-code-variable
+twemoji
