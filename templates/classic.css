@@ -329,4 +329,40 @@ button.DialogButton {
   fill: var(--BackgroundLight)  !important;
 }
 
+.mediapage_Screenshot_3Qh8h {
+    background-color: var(--BackgroundLight) !important;
+}
 
+.BasicUI .librarysettings_LibrarySettings_2nsOY {
+    background: var(--BackgroundRegular) !important;
+}
+
+.BasicUI .contentmanagement_ContentManagement_3wk64 {
+    background: var(--BackgroundRegular) !important;
+}
+
+.BasicUI .appdetailssection_Highlight_38t1m {
+    border-radius: 3px;
+    background: var(--BackgroundLight) !important;
+}
+
+.appdetailsachievementssection_AchievementCarouselItem_mbFSn.appdetailsachievementssection_Detailed_3KGi6 {
+    background-color: var(--BackgroundLight) !important;
+  border-radius: 3px
+}
+
+.BasicUI .appdetailscommunityfeed_AuthorSection_1ul9Z {
+    background: var(--BackgroundLight) !important;
+}
+
+.appdetailsgameinfopanel_DeckVerifiedInfo_IIJei {
+    background-color: var(--BackgroundLight) !important;
+}
+
+.appdetailsgameinfopanel_DeckVerifiedInfo_IIJei .appdetailsgameinfopanel_Details_3sfpA {
+    background-color: var(--BackgroundRegular) !important;;
+}
+
+.BasicUI .appdetailsprimarylinkssection_Anchor_DY4_w {
+    background-color: var(--BackgroundDark) !important;
+}
