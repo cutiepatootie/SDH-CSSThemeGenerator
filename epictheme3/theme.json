@@ -1,0 +1,10 @@
+
+{
+"name": "epictheme3",
+"version": "1.0",
+"inject": {
+"epictheme3.css": [
+"SP", "MainMenu", "QuickAccess"
+]
+}
+}
