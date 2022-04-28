@@ -38,7 +38,7 @@ def texticoncolour(f):
             f.write('color: #' + textcolour + ' !important;\n')
 
 def invertedcontrollericons(f):
-    print("Do you want to invert the controller button icons? ")
+    print("Do you want to colour invert the controller button icons? ")
     invertquestion = input("Recommended for bright and light themes [y/N]: ").lower()
     if invertquestion == "y":
         with open("invertcontrollericons.css", 'r') as r:
@@ -53,9 +53,16 @@ def deckcompatcolours(f):
       with open ("deckcompatcolour.css", 'r') as r:
         f.write(r.read())
 
+def keyboardinvertcontroller(f):
+  print("Do you want to colour invert the controller button icons in the keyboard? ")
+  invertkeyboardquestion = input("Recommended for bright and light keyboard themes [y/N]: ").lower()
+  if invertkeyboardquestion == "y":
+    with open("invertkeyboardcontroller.css", 'r') as r:
+          f.write(r.read())
+  
 
 print("Warning! Eat every option, the upper case Y or N is the default option!")
-themename = input("Enter your theme name: ").lower()
+themename = input("Enter your theme name: ")
 themefile = themename + ".css"
 print("\n")
 os.chdir("./templates")
@@ -73,6 +80,13 @@ borderdark = input("Colour for Dark Border: #").lower()
 accent = input("Colour for accents: #").lower()
 print("For the list of fonts included as standard on the Steam Deck, go to the DeckFonts.txt on the Github page")
 fontfamily = input("Enter the exact name of the font you want here: ").lower()
+keyboardtext = input("Colour for keyboard letters: #").lower()
+keyboardbackground = input("Colour for keyboard background: #").lower()
+keyboardlightkeys = input("Colour for keyboard light keys: #").lower()
+keyboardregularkeys = input("Colour for keyboard regular keys: #").lower()
+keyboarddarkkeys = input("Colour for keyboard dark keys: ").lower()
+keyboardaccents = input("Colour for keyboard accent: #").lower()
+keyboardpadding = input("Padding in keyboard in px (recommended 4): ").lower()
 
 foldercreator(themename)
 
@@ -97,6 +111,13 @@ with open(themename + "/" + themefile, 'w') as f:
     f.write('--BorderLight: #' + borderlight + ' !important;\n')
     f.write('--BorderDark: #' + borderdark + ' !important;\n')
     f.write('--Accent: #' + accent + ' !important;\n')
+    f.write('--KeyboardBackgroundColour: #' + keyboardbackground + ' !important;\n')
+    f.write('--KeyboardPadding: ' + keyboardpadding + 'px !important;\n')
+    f.write('--KeyboardLightKeysColour: #' + keyboardlightkeys + ' !important;\n')
+    f.write('--KeyboardRegularKeysColour: #' + keyboardregularkeys + ' !important;\n')
+    f.write('--KeyboardDarkKeysColour: #' + keyboarddarkkeys + ' !important;\n')
+    f.write('--KeyboardTextColour: #' + keyboardtext + ' !important;\n')
+    f.write('--KeyboardAccentColour: #' + keyboardaccents + ' !important;\n')
     f.write('}\n')
     f.write('* {\n')
     f.write('font-family: "' + fontfamily + '" !important;\n')
@@ -108,4 +129,5 @@ with open(themename + "/" + themefile, 'w') as f:
         f.write(r.read())
     loweredgames(f)
     invertedcontrollericons(f)
+    keyboardinvertcontroller(f)
     ##deckcompatcolours(f) not working at the moment
