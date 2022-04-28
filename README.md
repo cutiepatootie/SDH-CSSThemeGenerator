@@ -13,4 +13,4 @@ If you have custom fonts installed, these can be used too. <br> <br>
 Screenshots for guiding which colours do what will follow soon.<br>
 Text and Icon colours are WIP cause not all of the colours currently behave as expected. <br><br>
 
-The next scope is adding keyboard support to the themes, considering my global properties are affecting the keyboard
+Now includes full keyboard theming support (PUT KEYBOARD THEME ON DEFAULT ON YOUR STEAM DECK!!!)
