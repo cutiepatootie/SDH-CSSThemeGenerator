@@ -127,6 +127,9 @@ with open(themename + "/" + themefile, 'w') as f:
     f.write('}\n')
     with open(themestyle, "r") as r:
         f.write(r.read())
+    f.write('}\n')
+    with open("keyboardstyling.css", "r") as rr:
+        f.write(rr.read())
     loweredgames(f)
     invertedcontrollericons(f)
     keyboardinvertcontroller(f)
